@@ -93,7 +93,7 @@
                 "price": 13.99,
                 "img": "https://i.ibb.co/CBVFb00/dinner3.png"
             },
-            : {
+            {
                 "id": 4,
                 "name": "French Fries With Cheese",
                 "shortDescription": "How We Dream About Your Future",
