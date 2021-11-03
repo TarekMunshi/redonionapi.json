@@ -1,165 +1,157 @@
 [
-    {
-        "breakfast": [
-            {
-                "id": 1,
-                "name": "Bagel and Cream Cheese",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 6.99,
-                "img": "https://i.ibb.co/93RHZbZ/breakfast1.png"
-            },
-            {
-                "id": 2,
-                "name": "Breakfast and Sandwich",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 9.99,
-                "img": "https://i.ibb.co/qmsFFD7/breakfast2.png"
-            },
-            {
-                "id": 3,
-                "name": "Baked Chicken",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 10.99,
-                "img": "https://i.ibb.co/31SL6y6/breakfast3.png"
-            },
-            {
-                "id": 4,
-                "name": "Eggs Benedict",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 6.99,
-                "img": "https://i.ibb.co/txv8RHd/breakfast4.png"
-            },
-            {
-                "id": 5,
-                "name": "Toast Croissant Fried Egg",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 19.99,
-                "img": "https://i.ibb.co/DfWf7LM/breakfast5.png"
-            },
-            {
-                "id": 6,
-                "name": "Full Breakfast Fired Egg Toast Brunch",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 4.99,
-                "img": "https://i.ibb.co/kB0Zs7P/breakfast6.png"
-            }
-        ]
-    },
-    {
-        "chef": [
-            {
-                "id": 1,
-                "title": "Fast Delivery",
-                "description": "Our mission is to give our customers a place to celebrate life’s special moments by offering the \t\t\t\t\tbest food, service, and ambiance in Toronto.",
-                "img": "https://i.ibb.co/pnHj7Dw/adult-blur-blurred-background-687824.png",
-                "icon": "https://i.ibb.co/Vxj9JSF/Group-204.png"
-            },
-            {
-                "id": 2,
-                "description": "Our mission is to give our customers a place to celebrate life’s special moments by offering the \t\t\t\t\tbest food, service, and ambiance in Toronto.",
-                "title": "A Good Auto Responder",
-                "img": "https://i.ibb.co/HzjJC3j/chef-cook-food-33614.png",
-                "icon": "https://i.ibb.co/J2JVMZJ/Group-1133.png"
-            },
-            {
-                "id": 3,
-                "title": "Home Delivery",
-                "description": "Our mission is to give our customers a place to celebrate life’s special moments by offering the \t\t\t\t\tbest food, service, and ambiance in Toronto.",
-                "img": "https://i.ibb.co/HKfVc0p/architecture-building-city-2047397.png",
-                "icon": "https://i.ibb.co/SfDgqRP/Group-245.png"
-            }
-        ]
-    },
-    {
-        "dinner": [
-            {
-                "id": 1,
-                "name": "Salmon With Grapefruit and Lentil Salad",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 9.99,
-                "img": "https://i.ibb.co/2F3Bb0m/dinner1.png"
-            },
-            {
-                "id": 2,
-                "name": "Lamony Salmon Piccata",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 10.99,
-                "img": "https://i.ibb.co/ZfYpRc8/dinner2.png"
-            },
-            {
-                "id": 3,
-                "name": "Pork Tenderloin With Quinoa Pilaf",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 13.99,
-                "img": "https://i.ibb.co/CBVFb00/dinner3.png"
-            },
-            {
-                "id": 4,
-                "name": "French Fries With Cheese",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 8.99,
-                "img": "https://i.ibb.co/bmp9Jzk/dinner4.png"
-            },
-            {
-                "id": 5,
-                "name": "Garlic Butter Baked Salmon",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 6.99,
-                "img": "https://i.ibb.co/2SPsMST/dinner5.png"
-            },
-            {
-                "id": 6,
-                "name": "Baked Chicken",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 9.99,
-                "img": "https://i.ibb.co/W5r2YDv/lunch1.png"
-            }
-        ]
-    },
-    {
-        "lunch": [
-            {
-                "id": 1,
-                "name": "Healthy Meal Plan",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 23.99,
-                "img": "https://i.ibb.co/W5r2YDv/lunch1.png"
-            },
-            {
-                "id": 2,
-                "name": "Fried Chicken Bento",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 9.99,
-                "img": "https://i.ibb.co/9YhFv9B/lunch2.png"
-            },
-            {
-                "id": 3,
-                "name": "Tarragon-Rubbed-Salmon",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 6.99,
-                "img": "https://i.ibb.co/n8BWfZB/lunch3.png"
-            },
-            {
-                "id": 4,
-                "name": "Indian Lunch",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 8.99,
-                "img": "https://i.ibb.co/K5NWXyJ/lunch4.png"
-            },
-            {
-                "id": 5,
-                "name": "Beaf Steak",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 15.99,
-                "img": "https://i.ibb.co/5xZG7qz/lunch5.png"
-            },
-            {
-                "id": 6,
-                "name": "Honey-Soy-Glazed Salmon With Peppers",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 7.99,
-                "img": "https://i.ibb.co/s98XhRZ/lunch6.png"
-            }
-        ]
-    }
+    [
+        {
+            "id": 1,
+            "name": "Bagel and Cream Cheese",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 6.99,
+            "img": "https://i.ibb.co/93RHZbZ/breakfast1.png"
+        },
+        {
+            "id": 2,
+            "name": "Breakfast and Sandwich",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 9.99,
+            "img": "https://i.ibb.co/qmsFFD7/breakfast2.png"
+        },
+        {
+            "id": 3,
+            "name": "Baked Chicken",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 10.99,
+            "img": "https://i.ibb.co/31SL6y6/breakfast3.png"
+        },
+        {
+            "id": 4,
+            "name": "Eggs Benedict",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 6.99,
+            "img": "https://i.ibb.co/txv8RHd/breakfast4.png"
+        },
+        {
+            "id": 5,
+            "name": "Toast Croissant Fried Egg",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 19.99,
+            "img": "https://i.ibb.co/DfWf7LM/breakfast5.png"
+        },
+        {
+            "id": 6,
+            "name": "Full Breakfast Fired Egg Toast Brunch",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 4.99,
+            "img": "https://i.ibb.co/kB0Zs7P/breakfast6.png"
+        }
+    ],
+    [
+        {
+            "id": 1,
+            "title": "Fast Delivery",
+            "description": "Our mission is to give our customers a place to celebrate life’s special moments by offering the \t\t\t\t\tbest food, service, and ambiance in Toronto.",
+            "img": "https://i.ibb.co/pnHj7Dw/adult-blur-blurred-background-687824.png",
+            "icon": "https://i.ibb.co/Vxj9JSF/Group-204.png"
+        },
+        {
+            "id": 2,
+            "description": "Our mission is to give our customers a place to celebrate life’s special moments by offering the \t\t\t\t\tbest food, service, and ambiance in Toronto.",
+            "title": "A Good Auto Responder",
+            "img": "https://i.ibb.co/HzjJC3j/chef-cook-food-33614.png",
+            "icon": "https://i.ibb.co/J2JVMZJ/Group-1133.png"
+        },
+        {
+            "id": 3,
+            "title": "Home Delivery",
+            "description": "Our mission is to give our customers a place to celebrate life’s special moments by offering the \t\t\t\t\tbest food, service, and ambiance in Toronto.",
+            "img": "https://i.ibb.co/HKfVc0p/architecture-building-city-2047397.png",
+            "icon": "https://i.ibb.co/SfDgqRP/Group-245.png"
+        }
+    ],
+    [
+        {
+            "id": 1,
+            "name": "Salmon With Grapefruit and Lentil Salad",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 9.99,
+            "img": "https://i.ibb.co/2F3Bb0m/dinner1.png"
+        },
+        {
+            "id": 2,
+            "name": "Lamony Salmon Piccata",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 10.99,
+            "img": "https://i.ibb.co/ZfYpRc8/dinner2.png"
+        },
+        {
+            "id": 3,
+            "name": "Pork Tenderloin With Quinoa Pilaf",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 13.99,
+            "img": "https://i.ibb.co/CBVFb00/dinner3.png"
+        },
+        {
+            "id": 4,
+            "name": "French Fries With Cheese",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 8.99,
+            "img": "https://i.ibb.co/bmp9Jzk/dinner4.png"
+        },
+        {
+            "id": 5,
+            "name": "Garlic Butter Baked Salmon",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 6.99,
+            "img": "https://i.ibb.co/2SPsMST/dinner5.png"
+        },
+        {
+            "id": 6,
+            "name": "Baked Chicken",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 9.99,
+            "img": "https://i.ibb.co/W5r2YDv/lunch1.png"
+        }
+    ],
+    [
+        {
+            "id": 1,
+            "name": "Healthy Meal Plan",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 23.99,
+            "img": "https://i.ibb.co/W5r2YDv/lunch1.png"
+        },
+        {
+            "id": 2,
+            "name": "Fried Chicken Bento",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 9.99,
+            "img": "https://i.ibb.co/9YhFv9B/lunch2.png"
+        },
+        {
+            "id": 3,
+            "name": "Tarragon-Rubbed-Salmon",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 6.99,
+            "img": "https://i.ibb.co/n8BWfZB/lunch3.png"
+        },
+        {
+            "id": 4,
+            "name": "Indian Lunch",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 8.99,
+            "img": "https://i.ibb.co/K5NWXyJ/lunch4.png"
+        },
+        {
+            "id": 5,
+            "name": "Beaf Steak",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 15.99,
+            "img": "https://i.ibb.co/5xZG7qz/lunch5.png"
+        },
+        {
+            "id": 6,
+            "name": "Honey-Soy-Glazed Salmon With Peppers",
+            "shortDescription": "How We Dream About Your Future",
+            "price": 7.99,
+            "img": "https://i.ibb.co/s98XhRZ/lunch6.png"
+        }
+    ]
 ]
