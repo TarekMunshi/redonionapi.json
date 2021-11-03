@@ -43,51 +43,34 @@
                 "price": 4.99,
                 "img": "https://i.ibb.co/kB0Zs7P/breakfast6.png"
             }
-        },
-        "lunch": {
-            "food1": {
+        }
+    },
+    {
+        "chef": {
+            "person1": {
                 "id": 1,
-                "name": "Healthy Meal Plan",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 23.99,
-                "img": "https://i.ibb.co/W5r2YDv/lunch1.png"
+                "title": "Fast Delivery",
+                "description": "Our mission is to give our customers a place to celebrate life’s special moments by offering the best food, service, and ambiance in Toronto.",
+                "img": "https://i.ibb.co/pnHj7Dw/adult-blur-blurred-background-687824.png",
+                "icon": "https://i.ibb.co/Vxj9JSF/Group-204.png"
             },
-            "food2": {
+            "person2": {
                 "id": 2,
-                "name": "Fried Chicken Bento",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 9.99,
-                "img": "https://i.ibb.co/9YhFv9B/lunch2.png"
+                "description": "Our mission is to give our customers a place to celebrate life’s special moments by offering the best food, service, and ambiance in Toronto.",
+                "title": "A Good Auto Responder",
+                "img": "https://i.ibb.co/HzjJC3j/chef-cook-food-33614.png",
+                "icon": "https://i.ibb.co/J2JVMZJ/Group-1133.png"
             },
-            "food3": {
+            "person3": {
                 "id": 3,
-                "name": "Tarragon-Rubbed-Salmon",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 6.99,
-                "img": "https://i.ibb.co/n8BWfZB/lunch3.png"
-            },
-            "food4": {
-                "id": 4,
-                "name": "Indian Lunch",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 8.99,
-                "img": "https://i.ibb.co/K5NWXyJ/lunch4.png"
-            },
-            "food5": {
-                "id": 5,
-                "name": "Beaf Steak",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 15.99,
-                "img": "https://i.ibb.co/5xZG7qz/lunch5.png"
-            },
-            "food6": {
-                "id": 6,
-                "name": "Honey-Soy-Glazed Salmon With Peppers",
-                "shortDescription": "How We Dream About Your Future",
-                "price": 7.99,
-                "img": "https://i.ibb.co/s98XhRZ/lunch6.png"
+                "title": "Home Delivery",
+                "description": "Our mission is to give our customers a place to celebrate life’s special moments by offering the best food, service, and ambiance in Toronto.",
+                "img": "https://i.ibb.co/HKfVc0p/architecture-building-city-2047397.png",
+                "icon": "https://i.ibb.co/SfDgqRP/Group-245.png"
             }
-        },
+        }
+    },
+    {
         "dinner": {
             "food1": {
                 "id": 1,
@@ -131,28 +114,51 @@
                 "price": 9.99,
                 "img": "https://i.ibb.co/W5r2YDv/lunch1.png"
             }
-        },
-        "chef": {
-            "person1": {
+        }
+    },
+    {
+        "lunch": {
+            "food1": {
                 "id": 1,
-                "title": "Fast Delivery",
-                "description": "Our mission is to give our customers a place to \t\t\t\t\t\tcelebrate life’s special moments by offering the \t\t\t\t\tbest food, service, and ambiance in Toronto.",
-                "img": "https://i.ibb.co/pnHj7Dw/adult-blur-blurred-background-\t\t\t\t687824.png",
-                "icon": "https://i.ibb.co/Vxj9JSF/Group-204.png"
+                "name": "Healthy Meal Plan",
+                "shortDescription": "How We Dream About Your Future",
+                "price": 23.99,
+                "img": "https://i.ibb.co/W5r2YDv/lunch1.png"
             },
-            "person2": {
+            "food2": {
                 "id": 2,
-                "description": "Our mission is to give our customers a place to \t\t\t\t\t\tcelebrate life’s special moments by offering the \t\t\t\t\tbest food, service, and ambiance in Toronto.",
-                "title": "A Good Auto Responder",
-                "img": "https://i.ibb.co/HzjJC3j/chef-cook-food-33614.png",
-                "icon": "https://i.ibb.co/J2JVMZJ/Group-1133.png"
+                "name": "Fried Chicken Bento",
+                "shortDescription": "How We Dream About Your Future",
+                "price": 9.99,
+                "img": "https://i.ibb.co/9YhFv9B/lunch2.png"
             },
-            "person3": {
+            "food3": {
                 "id": 3,
-                "title": "Home Delivery",
-                "description": "Our mission is to give our customers a place to \t\t\t\t\t\tcelebrate life’s special moments by offering the \t\t\t\t\tbest food, service, and ambiance in Toronto.",
-                "img": "https://i.ibb.co/HKfVc0p/architecture-building-city-\t\t\t\t\t2047397.png",
-                "icon": "https://i.ibb.co/SfDgqRP/Group-245.png"
+                "name": "Tarragon-Rubbed-Salmon",
+                "shortDescription": "How We Dream About Your Future",
+                "price": 6.99,
+                "img": "https://i.ibb.co/n8BWfZB/lunch3.png"
+            },
+            "food4": {
+                "id": 4,
+                "name": "Indian Lunch",
+                "shortDescription": "How We Dream About Your Future",
+                "price": 8.99,
+                "img": "https://i.ibb.co/K5NWXyJ/lunch4.png"
+            },
+            "food5": {
+                "id": 5,
+                "name": "Beaf Steak",
+                "shortDescription": "How We Dream About Your Future",
+                "price": 15.99,
+                "img": "https://i.ibb.co/5xZG7qz/lunch5.png"
+            },
+            "food6": {
+                "id": 6,
+                "name": "Honey-Soy-Glazed Salmon With Peppers",
+                "shortDescription": "How We Dream About Your Future",
+                "price": 7.99,
+                "img": "https://i.ibb.co/s98XhRZ/lunch6.png"
             }
         }
     }
